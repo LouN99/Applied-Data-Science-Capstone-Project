@@ -13,15 +13,6 @@ The project includes:
 
 ---
 
-## 📂 Repository Structure
-- **`data/`**: Contains processed datasets used for analysis.
-- **`notebooks/`**: Jupyter Notebooks with step-by-step data analysis and modeling.
-- **`dash_app/`**: Dash application to visualize launch site success rates and payload correlations.
-- **`models/`**: Scripts for building and evaluating machine learning models.
-- **`README.md`**: This documentation file.
-
----
-
 ## 🛠️ Technologies Used
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn)
 - **Visualization**: Plotly, Matplotlib, Seaborn, Folium
